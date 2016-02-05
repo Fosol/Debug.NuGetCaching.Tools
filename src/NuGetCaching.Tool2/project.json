@@ -1,0 +1,12 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "NuGetCaching.Tool2 Class Library",
+  "authors": [ "JFoster" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}

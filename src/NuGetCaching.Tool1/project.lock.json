@@ -1,0 +1,36 @@
+{
+  "locked": false,
+  "version": 2,
+  "targets": {
+    "DNX,Version=v4.5.1": {
+      "NuGetCaching.Tool2/1.0.0": {
+        "type": "project",
+        "framework": "DNX,Version=v4.5.1"
+      }
+    },
+    "DNX,Version=v4.5.1/win7-x86": {
+      "NuGetCaching.Tool2/1.0.0": {
+        "type": "project",
+        "framework": "DNX,Version=v4.5.1"
+      }
+    },
+    "DNX,Version=v4.5.1/win7-x64": {
+      "NuGetCaching.Tool2/1.0.0": {
+        "type": "project",
+        "framework": "DNX,Version=v4.5.1"
+      }
+    }
+  },
+  "libraries": {
+    "NuGetCaching.Tool2/1.0.0": {
+      "type": "project",
+      "path": "../NuGetCaching.Tool2/project.json"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [
+      "NuGetCaching.Tool2 >= 1.0.0-*"
+    ],
+    "DNX,Version=v4.5.1": []
+  }
+}
